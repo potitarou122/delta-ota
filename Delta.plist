@@ -1,5 +1,6 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://files.catbox.moe/kh8jno.ipa">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>items</key>
@@ -11,7 +12,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://files.catbox.moe/hzvcn7.ipa</string>
+                    <string>https://files.catbox.moe/46soia.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +28,7 @@
                 <key>bundle-identifier</key>
                 <string>com.gloop.deltamobile</string>
                 <key>bundle-version</key>
-                <string>2.741.1062</string>
+                <string>2.747.1486</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
